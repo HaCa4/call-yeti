@@ -11,6 +11,7 @@ He can walk, look around or change its clothes by your choice. Don't call it as 
 
 ### Live Demo
 
+https://call-yeti.vercel.app/
 
 ### Setup
 
