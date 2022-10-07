@@ -6,7 +6,7 @@ It includes; scene, camera, light, 3D-Text, imported model, mixer, texture and a
 
 ### Call Yeti
 
-Meet with Yeti,
+Meet with Yeti,\
 It is nothing but a cute friend. He can walk, look around or change its clothes by your choice.
 
 ### Live Demo
