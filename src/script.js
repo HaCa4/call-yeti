@@ -129,6 +129,10 @@ const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height, 0.1, 
 camera.position.set(0, 8, 8);
 scene.add(camera);
 
+const controls = new OrbitControls(camera, canvas);
+controls.target.set(0, 3.1, 0);
+controls.enableDamping = true;
+
 const renderer = new THREE.WebGLRenderer({
   canvas: canvas,
 });
