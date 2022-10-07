@@ -106,7 +106,6 @@ const callYeti = () => {
     gltf.scene.scale.set(12, 12, 12);
     gltf.scene.position.set(0, 3, 0);
     gltf.scene.rotation.y = Math.PI * 0.15;
-
     scene.add(gltf.scene);
   });
 };
